@@ -50,7 +50,7 @@ const SongCard = ({ song, isPlaying, activeSong, i, data, favouriteSong }) => {
         </p>
       </div>
 
-      {favouriteSong && <div className="font-semibold text-pink-200 hover:text-red-600">
+      {favouriteSong && <div className="font-semibold text-pink-200 active:text-red-600">
         <button onClick={() => favouriteSong(song)}>
           <HiHeart />
         </button>
