@@ -3,22 +3,32 @@ Tunestory-shazam
 A simple working in progress music player with limited features.
 
 Description:
-A simple music player with song/artist library using Shazam Core API.
+A simple music player with song/artist library using Shazam API.
 
 Technical Used:
 - React
 - Vite.js
 - Tailwind.css
-- Rapid API extension [ Shazam Core API by WaveTech ] 
+- Rapid API extension [ Shazam API by NextBase ] 
 - react-icons
 - redux toolkit
 
 Wireframes
 1. Discover Page before
+<img width="346" alt="image" src="https://github.com/snbmr15/seif-13-project-2/assets/126153258/97b25366-b89a-417c-a3fc-991cb16ec760">
+
 2. Discover Page after user clicks on song (Music Player Console appears)
+<img width="347" alt="image" src="https://github.com/snbmr15/seif-13-project-2/assets/126153258/8cee070e-e0e9-41f2-9743-3698f0e10d46">
+
 3. Search Page
+<img width="346" alt="image" src="https://github.com/snbmr15/seif-13-project-2/assets/126153258/fa7db4a3-f272-488c-bbc9-abd5acb45323">
+
 4. Liked Page
+<img width="346" alt="image" src="https://github.com/snbmr15/seif-13-project-2/assets/126153258/00fa16cc-1698-4397-8d27-e52964d5a195">
+
 5. Top Charts Page
+<img width="344" alt="image" src="https://github.com/snbmr15/seif-13-project-2/assets/126153258/2f6e6500-75cc-4b52-9d53-066aa164101f">
+
 
 
 User Stories:
@@ -54,8 +64,8 @@ Challenges Faced:
 
 What was improved/changed:
 From initial idea,
-- swapped to Shazam Core API
-- made it less complicated with only 4 Pages(Search, Discover [with Music Player], Favourites, Top Charts) compared to (Search, Playlists[with Music Player], Image added to Song[within Playlist], view added Images as a compilation)
+- swapped to Shazam API
+- made it less complicated with only 4 Pages(Search, Discover [with Music Player], Favourites, Top Charts) compared to (Search, Playlists [with Music Player], Image added to Song [within Playlist], view added Images as a compilation)
 
 
 Final Idea:
@@ -80,11 +90,10 @@ rapidapi.com
 JS Mastery Pro Youtube
 
 
-
 Live Site ---- vercel app -------
 
 Repository Source Code is available on GitHub:
---------------github.io---------------
+https://github.com/snbmr15/seif-13-project-2.git
 
 
 Authors
