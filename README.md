@@ -32,6 +32,7 @@ Wireframes
 
 
 User Stories:
+
 [Discover Page Features]
 - switch between genres ( and see displayed songs)
 - Music Player console pops up when user presses play 
@@ -90,7 +91,8 @@ rapidapi.com
 JS Mastery Pro Youtube
 
 
-Live Site ---- vercel app -------
+Live Site:
+seif-13-project-2-six.vercel.app
 
 Repository Source Code is available on GitHub:
 https://github.com/snbmr15/seif-13-project-2.git
